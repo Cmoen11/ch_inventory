@@ -1,0 +1,13 @@
+diff --git a/node_modules/esx.js/@types/server.d.ts b/node_modules/esx.js/@types/server.d.ts
+index 368c9c7..5b5748d 100644
+--- a/node_modules/esx.js/@types/server.d.ts
++++ b/node_modules/esx.js/@types/server.d.ts
+@@ -66,6 +66,8 @@ export class XPlayer {
+   variables: any
+   weight: number
+   maxWeight: number
++  charname: string;
++  charid: number
+ 
+   /**
+    * This function adds account money.

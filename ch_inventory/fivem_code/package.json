@@ -1,0 +1,36 @@
+{
+	"name": "ts",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Christian Moen",
+	"license": "Creative Commons license",
+	"scripts": {
+		"build": "webpack --color --progress",
+		"watch": "webpack --mode production --watch",
+		"w": "webpack --mode development --watch",
+		"postinstall": "patch-package"
+	},
+	"dependencies": {
+		"@citizenfx/client": "^2.0.4073-1",
+		"@citizenfx/server": "^2.0.4073-1",
+		"@types/lodash": "^4.14.168",
+		"@types/node": "^14.14.10",
+		"@types/uuid": "^8.3.0",
+		"dayjs": "^1.10.4",
+		"esx.js": "^1.1.7",
+		"fivem-js": "^1.5.2",
+		"helpful-decorators": "^2.1.0",
+		"lodash": "^4.17.21",
+		"mysql2": "^2.2.5",
+		"patch-package": "^6.4.7",
+		"uuid": "^8.3.2"
+	},
+	"devDependencies": {
+		"jest": "^26.6.3",
+		"remove-files-webpack-plugin": "^1.4.4",
+		"ts-loader": "^8.0.11",
+		"typescript": "^4.1.2",
+		"webpack": "^5.10.0",
+		"webpack-cli": "^4.2.0"
+	}
+}

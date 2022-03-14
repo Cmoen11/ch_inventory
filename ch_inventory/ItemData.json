@@ -1,0 +1,2092 @@
+{
+	"rings": {
+		"name": "rings",
+		"label": "Løkringer",
+		"image": "https://i.imgur.com/LlkKp8F.png",
+		"itemWeight": 0.1,
+		"description": "Løkringer... Nytes ferske.. ",
+		"price": 70,
+		"closeOnUse": true,
+		"maxInStack": 64,
+		"expiresAt": { "amount": 5, "ofWhat": "days" }
+	},
+	"prisonfood": {
+		"name": "prisonfood",
+		"label": "Fengselsmat",
+		"image": "https://i.imgur.com/uc5uYH4.png",
+		"itemWeight": 25,
+		"description": "Fengselmat... Smaker dritt.. ",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 2,
+		"expiresAt": { "amount": 1, "ofWhat": "days" }
+	},
+	"hamburger": {
+		"name": "hamburger",
+		"label": "Hamburger",
+		"image": "https://i.imgur.com/kEoQzqS.png",
+		"itemWeight": 0.1,
+		"description": "Hamburger",
+		"price": 120,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"sandwich": {
+		"name": "sandwich",
+		"label": "Smørbrød",
+		"image": "https://i.imgur.com/FQ8QW9M.png",
+		"itemWeight": 0.1,
+		"description": "Smørbrød",
+		"price": 35,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"fries": {
+		"name": "fries",
+		"label": "Pomfri",
+		"image": "https://i.imgur.com/P07Vey8.png",
+		"itemWeight": 0.1,
+		"description": "Pomfri",
+		"price": 20,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"energybar": {
+		"name": "energybar",
+		"label": "Energy Bar",
+		"image": "https://i.imgur.com/oWW4ONF.png",
+		"itemWeight": 0.1,
+		"description": "Energy Bar",
+		"price": 15,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"meatsandwitch": {
+		"name": "meatsandwitch",
+		"label": "Kjøtt Sandwich",
+		"image": "https://i.imgur.com/rBu612U.png",
+		"itemWeight": 0.1,
+		"description": "Kjøtt Sandwich",
+		"price": 50,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"burrito": {
+		"name": "burrito",
+		"label": "Burrito",
+		"image": "https://i.imgur.com/YOxfzyS.png",
+		"itemWeight": 0.1,
+		"description": "Burrito",
+		"price": 70,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"thebleederburger": {
+		"name": "thebleederburger",
+		"label": "Pepe Burger",
+		"image": "https://i.imgur.com/99S7r2Z.png",
+		"itemWeight": 0.1,
+		"description": "The bleeder",
+		"price": 200,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"sushi_plate": {
+		"name": "sushi_plate",
+		"label": "Sushi Tallerken",
+		"image": "https://i.imgur.com/6v34eDp.png",
+		"itemWeight": 0.1,
+		"description": "Sushi Tallerken",
+		"price": 100,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"sushi_rolls": {
+		"name": "sushi_rolls",
+		"label": "Sushi Rull",
+		"image": "https://i.imgur.com/2OebzOK.png",
+		"itemWeight": 0.1,
+		"description": "Sushi Rull",
+		"price": 50,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"spagetticapri": {
+		"name": "spagetticapri",
+		"label": "Spagetti ala Capri",
+		"image": "https://i.imgur.com/SMBDFB7.png",
+		"itemWeight": 0.1,
+		"description": "Spagetti ala Capri",
+		"price": 100,
+		"expiresAt": { "amount": 10, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"pancake": {
+		"name": "pancake",
+		"label": "Pannekaker",
+		"image": "https://i.imgur.com/1Eq7lqY.png",
+		"itemWeight": 0.1,
+		"description": "Pannekaker",
+		"price": 20,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"slush": {
+		"name": "slush",
+		"label": "Slush",
+		"image": "https://i.imgur.com/pBkw0u9.png",
+		"itemWeight": 0.1,
+		"description": "Brainfreeze",
+		"price": 32,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"water": {
+		"name": "water",
+		"label": "Vann",
+		"image": "https://i.imgur.com/ayMkYKk.png",
+		"itemWeight": 0.1,
+		"description": "Flaskevann",
+		"price": 50,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"milk": {
+		"name": "milk",
+		"label": "Melk",
+		"image": "https://i.imgur.com/zIQBfvZ.png",
+		"itemWeight": 0.1,
+		"description": "Melk",
+		"price": 25,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"frappe": {
+		"name": "frappe",
+		"label": "Frappe",
+		"image": "https://i.imgur.com/sxyItVS.png",
+		"itemWeight": 0.1,
+		"description": "Frappe",
+		"price": 80,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"kaffe": {
+		"name": "kaffe",
+		"label": "Kaffe",
+		"image": "https://i.imgur.com/BmIPylY.png",
+		"itemWeight": 0.1,
+		"description": "Rykende fersk",
+		"price": 25,
+		"expiresAt": { "amount": 5, "ofWhat": "hours" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"tea": {
+		"name": "tea",
+		"label": "Te",
+		"image": "https://i.imgur.com/ekCDGL1.png",
+		"itemWeight": 0.1,
+		"description": "Rykende fersk",
+		"price": 25,
+		"expiresAt": { "amount": 5, "ofWhat": "hours" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"waterglass": {
+		"name": "waterglass",
+		"label": "Vann",
+		"image": "https://i.imgur.com/A1AArPn.png",
+		"itemWeight": 0.1,
+		"description": "Iskald forfriskning",
+		"price": 25,
+		"expiresAt": { "amount": 5, "ofWhat": "hours" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"ffwater": {
+		"name": "ffwater",
+		"label": "FF-Vann",
+		"image": "https://i.imgur.com/QhI5NMr.png",
+		"itemWeight": 0.1,
+		"description": "Fagforeningen For Faen's offisielle vannkopp",
+		"price": 10,
+		"expiresAt": { "amount": 5, "ofWhat": "hours" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"ffkaffe": {
+		"name": "ffkaffe",
+		"label": "FF-Kaffe",
+		"image": "https://i.imgur.com/bTGtw8V.png",
+		"itemWeight": 0.1,
+		"description": "Fagforeningen For Faen's offisielle kopp",
+		"price": 10,
+		"expiresAt": { "amount": 5, "ofWhat": "hours" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"beer": {
+		"name": "beer",
+		"label": "Øl",
+		"image": "https://i.imgur.com/iqzjwqk.png",
+		"itemWeight": 0.1,
+		"description": "En forfriskende pils",
+		"price": 30,
+		"expiresAt": { "amount": 10, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+
+	"shit": {
+		"name": "shit",
+		"label": "Avføring",
+		"image": "https://i.imgur.com/y5fqkg3.png",
+		"itemWeight": 0.1,
+		"description": "💩💩💩",
+		"price": 0,
+		"expiresAt": { "amount": 10, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"crack": {
+		"name": "crack",
+		"label": "Crack-kokain",
+		"image": "https://i.imgur.com/m9hqGCm.png",
+		"itemWeight": 0.1,
+		"description": "Til å bli avhengig av",
+		"price": 0,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	},
+	"bag": {
+		"name": "bag",
+		"label": "Gym bag",
+		"image": "https://i.imgur.com/8D6kPp0.png",
+		"itemWeight": 5,
+		"description": "Til å lagre større mengder",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "metall", "amount": 1 },
+				{ "itemName": "stoff", "amount": 50 },
+				{ "itemName": "plastikk", "amount": 10 }
+			]
+		}
+	},
+	"advancerepkit": {
+		"name": "advancerepkit",
+		"label": "Avansert Repkit",
+		"image": "https://i.imgur.com/jAJpkmS.png",
+		"itemWeight": 5,
+		"description": "Fikser kjøretøy ",
+		"price": 2000,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 5
+	},
+	"repairkit": {
+		"name": "repairkit",
+		"label": "Repsett",
+		"image": "https://i.imgur.com/nsyFvkY.png",
+		"itemWeight": 2.5,
+		"description": "Fikser kjøretøy ",
+		"price": 500,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 5
+	},
+	"bandage": {
+		"name": "bandage",
+		"label": "Bandasje",
+		"image": "https://i.imgur.com/OvJzSmX.png",
+		"itemWeight": 1,
+		"description": "Stopper blødninger",
+		"price": 500,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 10,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "stoff", "amount": 3 },
+				{ "itemName": "plastikk", "amount": 2 }
+			]
+		}
+	},
+	"medkit": {
+		"name": "medkit",
+		"label": "Førstehjelp",
+		"image": "https://i.imgur.com/KzBgrKV.png",
+		"itemWeight": 1,
+		"description": "Personlig medkit",
+		"price": 500,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 10
+	},
+	"lockpick": {
+		"name": "lockpick",
+		"label": "Dirkesett",
+		"image": "https://i.imgur.com/qm5j6z6.png",
+		"itemWeight": 0.5,
+		"description": "Dirkesett",
+		"price": 1200,
+		"expiresAt": { "amount": 40, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 20,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "stal", "amount": 2 },
+				{ "itemName": "metall", "amount": 1 }
+			]
+		}
+	},
+	"ammo-pistol": {
+		"name": "ammo-pistol",
+		"label": "Pistol Patroner",
+		"image": "https://i.imgur.com/jqcuchD.png",
+		"itemWeight": 0.1,
+		"description": "Til pistoler",
+		"price": 150,
+		"closeOnUse": true,
+		"maxInStack": 500,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "svartkrutt", "amount": 10 },
+				{ "itemName": "stal", "amount": 5 },
+				{ "itemName": "metall", "amount": 5 }
+			]
+		}
+	},
+	"ammo-rifle": {
+		"name": "ammo-rifle",
+		"label": "Rifle Patroner",
+		"image": "https://i.imgur.com/Pjchmtx.png",
+		"itemWeight": 0.1,
+		"description": "Til rifler",
+		"price": 150,
+		"closeOnUse": true,
+		"maxInStack": 500,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "svartkrutt", "amount": 10 },
+				{ "itemName": "stal", "amount": 20 },
+				{ "itemName": "metall", "amount": 20 }
+			]
+		}
+	},
+	"ammo-sub": {
+		"name": "ammo-sub",
+		"label": "4,6mm Patron",
+		"image": "https://i.imgur.com/7PGOrxX.png",
+		"itemWeight": 0.1,
+		"description": "Til Maskinpistoler og mindre automatiske våpen",
+		"price": 150,
+		"closeOnUse": true,
+		"maxInStack": 500,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "svartkrutt", "amount": 10 },
+				{ "itemName": "stal", "amount": 15 },
+				{ "itemName": "metall", "amount": 15 }
+			]
+		}
+	},
+	"ammo-shotgun": {
+		"name": "ammo-shotgun",
+		"label": "Haglepatroner",
+		"image": "https://i.imgur.com/JMBwIk0.png",
+		"itemWeight": 0.1,
+		"description": "Til hagler",
+		"price": 200,
+		"closeOnUse": true,
+		"maxInStack": 500,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "svartkrutt", "amount": 10 },
+				{ "itemName": "stal", "amount": 15 },
+				{ "itemName": "metall", "amount": 15 }
+			]
+		}
+	},
+	"ammo-lmg": {
+		"name": "ammo-lmg",
+		"label": "LMG Patroner",
+		"image": "https://i.imgur.com/fyfd1BD.png",
+		"itemWeight": 0.1,
+		"description": "Til større våpen",
+		"price": 200,
+		"closeOnUse": true,
+		"maxInStack": 500,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "svartkrutt", "amount": 10 },
+				{ "itemName": "stal", "amount": 15 },
+				{ "itemName": "metall", "amount": 15 }
+			]
+		}
+	},
+	"jewels": {
+		"name": "jewels",
+		"label": "Juveler",
+		"image": "https://i.imgur.com/TF2UBEr.png",
+		"itemWeight": 1,
+		"description": "Juveler",
+		"price": 0,
+		"expiresAt": { "amount": 90, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 500
+	},
+	"rolex": {
+		"name": "rolex",
+		"label": "Rolex klokke",
+		"image": "https://i.imgur.com/CYvoI0I.png",
+		"itemWeight": 1,
+		"description": "Rolex klokke",
+		"price": 0,
+		"expiresAt": { "amount": 90, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 500
+	},
+	"goldchain": {
+		"name": "goldchain",
+		"label": "Gull kjede",
+		"image": "https://i.imgur.com/iOXAgFU.png",
+		"itemWeight": 1,
+		"description": "Gull kjede",
+		"price": 0,
+		"expiresAt": { "amount": 90, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 500
+	},
+	"gruppe62": {
+		"name": "gruppe62",
+		"label": "Grønn G6 kort",
+		"image": "https://i.imgur.com/VADvfTO.png",
+		"itemWeight": 1,
+		"description": "Grønn G6 kort",
+		"price": 0,
+		"expiresAt": { "amount": 21, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 500,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "elektronikk", "amount": 100 },
+				{ "itemName": "ledningssett", "amount": 100 },
+				{ "itemName": "glass", "amount": 100 },
+				{ "itemName": "gummi", "amount": 100 },
+				{ "itemName": "stoff", "amount": 100 }
+			]
+		}
+	},
+	"gruppe63": {
+		"name": "gruppe63",
+		"label": "Lilla G6 kort",
+		"image": "https://i.imgur.com/DcuUEwL.png",
+		"itemWeight": 1,
+		"description": "Lilla G6 kort",
+		"price": 0,
+		"expiresAt": { "amount": 21, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 500,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "elektronikk", "amount": 100 },
+				{ "itemName": "ledningssett", "amount": 100 },
+				{ "itemName": "glass", "amount": 100 },
+				{ "itemName": "gummi", "amount": 100 },
+				{ "itemName": "stoff", "amount": 100 }
+			]
+		}
+	},
+	"securityblue": {
+		"name": "securityblue",
+		"label": "Adgangskort",
+		"image": "https://i.imgur.com/AHCcced.png",
+		"itemWeight": 1,
+		"description": "Blått adgangskort",
+		"price": 0,
+		"expiresAt": { "amount": 21, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 500,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "elektronikk", "amount": 150 },
+				{ "itemName": "ledningssett", "amount": 150 },
+				{ "itemName": "glass", "amount": 150 },
+				{ "itemName": "gummi", "amount": 150 },
+				{ "itemName": "stoff", "amount": 150 }
+			]
+		}
+	},
+	"securitygreen": {
+		"name": "securitygreen",
+		"label": "Adgangskort",
+		"image": "https://i.imgur.com/yVSkFJU.png",
+		"itemWeight": 1,
+		"description": "Grønt adgangskort",
+		"price": 0,
+		"expiresAt": { "amount": 21, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 500
+	},
+	"cawerium": {
+		"name": "cawerium",
+		"label": "Krypto adresse",
+		"image": "https://i.imgur.com/BrJ9lmR.png",
+		"itemWeight": 1,
+		"description": "Kryptovaluta adresse",
+		"price": 0,
+		"expiresAt": { "amount": 120, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"elektronikk": {
+		"name": "elektronikk",
+		"label": "Elektronikk",
+		"image": "https://i.imgur.com/j5a58ZS.png",
+		"itemWeight": 0.1,
+		"description": "Elektronikk",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"ledningssett": {
+		"name": "ledningssett",
+		"label": "Ledningssett",
+		"image": "https://i.imgur.com/lMkyQs9.png",
+		"itemWeight": 0.1,
+		"description": "Ledningssett",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"metall": {
+		"name": "metall",
+		"label": "Metall",
+		"image": "https://i.imgur.com/S6Uo2PB.png",
+		"itemWeight": 0.1,
+		"description": "Metall",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"kobber": {
+		"name": "kobber",
+		"label": "Kobber",
+		"image": "https://i.imgur.com/bguHN0n.png",
+		"itemWeight": 0.1,
+		"description": "Kobber",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"stal": {
+		"name": "stal",
+		"label": "Stål",
+		"image": "https://i.imgur.com/KfGwu55.png",
+		"itemWeight": 0.1,
+		"description": "Stål",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"plastikk": {
+		"name": "plastikk",
+		"label": "Plastikk",
+		"image": "https://i.imgur.com/MoRp7FK.png",
+		"itemWeight": 0.1,
+		"description": "Plastikk",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"gummi": {
+		"name": "gummi",
+		"label": "Gummi",
+		"image": "https://i.imgur.com/YcMA9p0.png",
+		"itemWeight": 0.1,
+		"description": "Gummi",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"stoff": {
+		"name": "stoff",
+		"label": "Stoff",
+		"image": "https://i.imgur.com/RDvIxkB.png",
+		"itemWeight": 0.1,
+		"description": "Stoff",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"glass": {
+		"name": "glass",
+		"label": "Glass",
+		"image": "https://i.imgur.com/dzpTUXD.png",
+		"itemWeight": 0.1,
+		"description": "Glass",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"kretskort": {
+		"name": "kretskort",
+		"label": "Kretskort",
+		"image": "https://i.imgur.com/j5a58ZS.png",
+		"itemWeight": 0.1,
+		"description": "Kretskort",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "recycledMaterial", "amount": 1 }]
+		}
+	},
+	"recycledMaterial": {
+		"name": "recycledMaterial",
+		"label": "Resirkulert materiale",
+		"image": "https://i.imgur.com/iAIUGME.png",
+		"itemWeight": 0.1,
+		"description": "Stor blokk med søppel",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1000
+	},
+	"radio": {
+		"name": "radio",
+		"label": "Samband",
+		"image": "https://i.imgur.com/uCt8z3r.png",
+		"itemWeight": 1,
+		"description": "Samband for å knytte kontakt",
+		"price": 5000,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1,
+		"crafting": {
+			"skill": "crime",
+			"skillLevel": 1,
+			"itemsRequired": [
+				{ "itemName": "kretskort", "amount": 50 },
+				{ "itemName": "plastikk", "amount": 50 },
+				{ "itemName": "ledningssett", "amount": 50 },
+				{ "itemName": "gummi", "amount": 50 },
+				{ "itemName": "kobber", "amount": 50 }
+			]
+		}
+	},
+	"goldnugget": {
+		"name": "goldnugget",
+		"label": "Gullklump",
+		"image": "https://i.imgur.com/GIz2iIw.png",
+		"itemWeight": 0.1,
+		"description": "Gullklump",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 100,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "rolex", "amount": 1 },
+				{ "itemName": "goldchain", "amount": 1 },
+				{ "itemName": "jewels", "amount": 1 }
+			]
+		}
+	},
+	"goldbar": {
+		"name": "goldbar",
+		"label": "Gullbar",
+		"image": "https://i.imgur.com/oi2oqWB.png",
+		"itemWeight": 10,
+		"description": "Verdifull gullbar",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 50,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "goldnugget", "amount": 100 }]
+		}
+	},
+	"zipbag": {
+		"name": "zipbag",
+		"label": "Lynlåspose",
+		"image": "https://i.imgur.com/JvQcsUx.png",
+		"itemWeight": 0,
+		"description": "Lynlåspose",
+		"price": 25,
+		"closeOnUse": true,
+		"maxInStack": 1000
+	},
+	"bevismateriale": {
+		"name": "bevismateriale",
+		"label": "Bevismateriale",
+		"image": "https://i.imgur.com/N7iobuy.png",
+		"itemWeight": 0.1,
+		"description": "Bevismateriale som blod, kuler og hylser",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 500
+	},
+
+	"WEAPON_FIREEXTINGUISHER": {
+		"name": "WEAPON_FIREEXTINGUISHER",
+		"label": "Brannskum",
+		"image": "https://i.imgur.com/X0NNRMa.png",
+		"itemWeight": 10,
+		"description": "Brannskum til nødsituasjoner",
+		"price": 5000,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_RAYPISTOL": {
+		"name": "WEAPON_RAYPISTOL",
+		"label": "ADMIN VÅPEN",
+		"image": "https://i.imgur.com/X0NNRMa.png",
+		"itemWeight": 10,
+		"description": "Brannskum til nødsituasjoner",
+		"price": 20,
+		"expiresAt": { "amount": 1, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_MINIGUN": {
+		"name": "WEAPON_MINIGUN",
+		"label": "ADMIN VÅPEN 2",
+		"image": "https://i.imgur.com/X0NNRMa.png",
+		"itemWeight": 10,
+		"description": "Brannskum til nødsituasjoner",
+		"price": 20,
+		"expiresAt": { "amount": 1, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_FLASHLIGHT": {
+		"name": "WEAPON_FLASHLIGHT",
+		"label": "Lommelykt",
+		"image": "https://i.imgur.com/GF1Svyv.png",
+		"itemWeight": 1.5,
+		"description": "For å lyse opp ting (doh)",
+		"price": 2500,
+		"expiresAt": { "amount": 40, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_BAT": {
+		"name": "WEAPON_BAT",
+		"label": "Balltre",
+		"image": "https://i.imgur.com/Yp7Sbyg.png",
+		"itemWeight": 2.5,
+		"description": "Ikke en golfkølle",
+		"price": 2500,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_CROWBAR": {
+		"name": "WEAPON_CROWBAR",
+		"label": "Brekkjern",
+		"image": "https://i.imgur.com/Q3aI7s4.png",
+		"itemWeight": 2.5,
+		"description": "En banditts beste venn!",
+		"price": 2500,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_WRENCH": {
+		"name": "WEAPON_WRENCH",
+		"label": "Skiftenøkkel",
+		"image": "https://i.imgur.com/GmYnKs0.png",
+		"itemWeight": 2.5,
+		"description": "Tilhører Biltuning AS",
+		"price": 2500,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_HAMMER": {
+		"name": "WEAPON_HAMMER",
+		"label": "Hammer",
+		"image": "https://i.imgur.com/yMhth50.png",
+		"itemWeight": 2.5,
+		"description": "Spikers verste mareritt",
+		"price": 2500,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_HATCHET": {
+		"name": "WEAPON_HATCHET",
+		"label": "Øks",
+		"image": "https://i.imgur.com/UpzxYvu.png",
+		"itemWeight": 2.5,
+		"description": "Ikke en golfkølle",
+		"price": 2500,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_BATTLEAXE": {
+		"name": "WEAPON_BATTLEAXE",
+		"label": "Battle Øks",
+		"image": "https://i.imgur.com/UpzxYvu.png",
+		"itemWeight": 2.5,
+		"description": "Ikke en golfkølle",
+		"price": 2500,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_KNIFE": {
+		"name": "WEAPON_KNIFE",
+		"label": "Kniv",
+		"image": "https://i.imgur.com/RmSszwz.png",
+		"itemWeight": 2.5,
+		"description": "Sløv, men selvstikker",
+		"price": 2500,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_SWITCHBLADE": {
+		"name": "WEAPON_SWITCHBLADE",
+		"label": "Springkniv",
+		"image": "https://i.imgur.com/EcVDNs3.png",
+		"itemWeight": 2.5,
+		"description": "Ulovelig, men fri",
+		"price": 4000,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_MACHETE": {
+		"name": "WEAPON_MACHETE",
+		"label": "Machete",
+		"image": "https://i.imgur.com/rhsXUoc.png",
+		"itemWeight": 2.5,
+		"description": "Jungelens beste redskap",
+		"price": 4000,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_STONE_HATCHET": {
+		"name": "WEAPON_STONE_HATCHET",
+		"label": "Stein øks",
+		"image": "https://i.imgur.com/ORYKrq0.png",
+		"itemWeight": 2.5,
+		"description": "Steinalderen",
+		"price": 4000,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_VINTAGEPISTOL": {
+		"name": "WEAPON_VINTAGEPISTOL",
+		"label": "FN 1922",
+		"image": "https://i.imgur.com/6Kyq8nS.png",
+		"itemWeight": 10,
+		"description": "Ekte gammal gunner",
+		"price": 35000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_MICROSMG": {
+		"name": "WEAPON_MICROSMG",
+		"label": "Mini-Uzi",
+		"image": "https://i.imgur.com/NfcbMCC.png",
+		"itemWeight": 10,
+		"description": "Mini-uzi Automatvåpen",
+		"price": 75000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "blueprint_microsmg", "amount": 1 },
+				{ "itemName": "magasin", "amount": 1 },
+				{ "itemName": "avtrekker", "amount": 1 },
+				{ "itemName": "sluttstykke", "amount": 1 },
+				{ "itemName": "chokefett", "amount": 3 },
+				{ "itemName": "skruer", "amount": 5 },
+				{ "itemName": "springfjaer", "amount": 1 },
+				{ "itemName": "sykkelolje", "amount": 5 },
+				{ "itemName": "lop", "amount": 1 }
+			]
+		}
+	},
+	"WEAPON_DBSHOTGUN": {
+		"name": "weapon_dbshotgun",
+		"label": "2 løps hagle",
+		"image": "https://i.imgur.com/PQvRhVl.png",
+		"itemWeight": 15,
+		"description": "2 løps hagle",
+		"price": 50000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_PETROLCAN": {
+		"name": "WEAPON_PETROLCAN",
+		"label": "Bensinkanne",
+		"image": "https://i.imgur.com/TCtBvsQ.png",
+		"itemWeight": 10,
+		"description": "Jerrykanne til bensin",
+		"price": 5000,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_COMPACTRIFLE": {
+		"name": "WEAPON_COMPACTRIFLE",
+		"label": "Liten AK-47",
+		"image": "https://i.imgur.com/QLd8b55.png",
+		"itemWeight": 15,
+		"description": "Ak-47 uten bakdel",
+		"price": 100000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "blueprint_compactrifle", "amount": 1 },
+				{ "itemName": "magasin", "amount": 2 },
+				{ "itemName": "avtrekker", "amount": 1 },
+				{ "itemName": "sluttstykke", "amount": 1 },
+				{ "itemName": "chokefett", "amount": 5 },
+				{ "itemName": "skruer", "amount": 25 },
+				{ "itemName": "springfjaer", "amount": 3 },
+				{ "itemName": "sykkelolje", "amount": 5 },
+				{ "itemName": "lop", "amount": 3 }
+			]
+		}
+	},
+	"WEAPON_SAWNOFFSHOTGUN": {
+		"name": "WEAPON_SAWNOFFSHOTGUN",
+		"label": "Avsaget hagle",
+		"image": "https://i.imgur.com/hMJUi0Z.png",
+		"itemWeight": 15,
+		"description": "Avsaget hagle",
+		"price": 50000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_MACHINEPISTOL": {
+		"name": "WEAPON_MACHINEPISTOL",
+		"label": "Tec-9",
+		"image": "https://i.imgur.com/PDUVOKO.png",
+		"itemWeight": 10,
+		"description": "Tec-9 automatpistol",
+		"price": 50000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_PUMPSHOTGUN": {
+		"name": "WEAPON_PUMPSHOTGUN",
+		"label": "Pumphagle",
+		"image": "https://i.imgur.com/AR7iQfU.png",
+		"itemWeight": 10,
+		"description": "Pumphagle",
+		"price": 50000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"drivelicense": {
+		"name": "drivelicense",
+		"label": "Førerkort",
+		"image": "https://i.imgur.com/Pb91C78.png",
+		"itemWeight": 0,
+		"description": "Førerkort for kjøretøy",
+		"price": 0,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"policeId": {
+		"name": "policeId",
+		"label": "Politi ID",
+		"image": "https://i.imgur.com/RyaoCnn.png",
+		"itemWeight": 0,
+		"description": "Politi ID",
+		"price": 0,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"blueprint_snspistol": {
+		"name": "blueprint_snspistol",
+		"label": "BP SNS-pistol",
+		"image": "https://i.imgur.com/R8M4CRk.png",
+		"itemWeight": 1,
+		"description": "Oppskrift for å kunne lage SNS-pistol",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"blueprint_glock": {
+		"name": "blueprint_glock",
+		"label": "BP Glock",
+		"image": "https://i.imgur.com/R8M4CRk.png",
+		"itemWeight": 1,
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"blueprint_minismg": {
+		"name": "blueprint_minismg",
+		"label": "BP Scorpion",
+		"image": "https://i.imgur.com/R8M4CRk.png",
+		"itemWeight": 1,
+		"description": "Oppskrift for å kunne lage Scorpion",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"blueprint_microsmg": {
+		"name": "blueprint_microsmg",
+		"label": "BP Micro SMG",
+		"image": "https://i.imgur.com/R8M4CRk.png",
+		"itemWeight": 1,
+		"description": "Oppskrift for å kunne lage Micro SMG",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"blueprint_heavypistol": {
+		"name": "blueprint_heavypistol",
+		"label": "BP Heavy Pistol",
+		"image": "https://i.imgur.com/R8M4CRk.png",
+		"itemWeight": 1,
+		"description": "Oppskrift for å kunne lage Heavy Pistol",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"blueprint_compactrifle": {
+		"name": "blueprint_compactrifle",
+		"label": "BP Compact Rifle",
+		"image": "https://i.imgur.com/R8M4CRk.png",
+		"itemWeight": 1,
+		"description": "Oppskrift for å kunne lage Compact Rifle",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"WEAPON_MINISMG": {
+		"name": "WEAPON_MINISMG",
+		"label": "Scorpion",
+		"image": "https://i.imgur.com/QjqQYpu.png",
+		"itemWeight": 10,
+		"description": "Class 2",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "blueprint_minismg", "amount": 1 },
+				{ "itemName": "magasin", "amount": 1 },
+				{ "itemName": "avtrekker", "amount": 1 },
+				{ "itemName": "sluttstykke", "amount": 1 },
+				{ "itemName": "chokefett", "amount": 3 },
+				{ "itemName": "skruer", "amount": 5 },
+				{ "itemName": "springfjaer", "amount": 1 },
+				{ "itemName": "sykkelolje", "amount": 5 },
+				{ "itemName": "lop", "amount": 1 }
+			]
+		}
+	},
+	"WEAPON_SMG": {
+		"name": "WEAPON_SMG",
+		"label": "SMG",
+		"image": "https://i.imgur.com/epq0q6a.png",
+		"itemWeight": 10,
+		"description": "SMG",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_STUNGUN": {
+		"name": "WEAPON_STUNGUN",
+		"label": "Tazer",
+		"image": "https://i.imgur.com/6qSK5qh.png",
+		"itemWeight": 1,
+		"description": "Elektrosjokk Våpen",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_CARBINERIFLE": {
+		"name": "WEAPON_CARBINERIFLE",
+		"label": "Carbin rifle",
+		"image": "https://i.imgur.com/StLGC3A.png",
+		"itemWeight": 10,
+		"description": "Carbin Rifle",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_NIGHTSTICK": {
+		"name": "WEAPON_NIGHTSTICK",
+		"label": "Batong",
+		"image": "https://i.imgur.com/QIxBwGG.png",
+		"itemWeight": 2.5,
+		"description": "Batong",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"thermite": {
+		"name": "thermite",
+		"label": "Thermite",
+		"image": "https://i.imgur.com/ek8TeMT.png",
+		"itemWeight": 3.0,
+		"description": "En god gatemiks av aluminium og jernoksid",
+		"price": 0,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "kobber", "amount": 25 },
+				{ "itemName": "svartkrutt", "amount": 25 },
+				{ "itemName": "gummi", "amount": 25 }
+			]
+		}
+	},
+	"tunerchip": {
+		"name": "tunerchip",
+		"label": "Tunerchip",
+		"image": "https://i.imgur.com/b94HBjz.png",
+		"itemWeight": 2.5,
+		"description": "PPC Tuning enhet",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"weedq": {
+		"name": "weedq",
+		"label": "Marihuana (25g)",
+		"image": "https://i.imgur.com/4ax57vR.png",
+		"itemWeight": 0.125,
+		"description": "En doggiebag med marihuana",
+		"price": 0,
+		"expiresAt": { "amount": 45, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 40
+	},
+	"weedoz": {
+		"name": "weedoz",
+		"label": "Marihuana (100g)",
+		"image": "https://i.imgur.com/bUiOkjv.png",
+		"itemWeight": 0.5,
+		"description": "En pose med marihuana",
+		"price": 0,
+		"expiresAt": { "amount": 45, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 10
+	},
+	"weedboks": {
+		"name": "weedboks",
+		"label": "Marihuana (500g)",
+		"image": "https://i.imgur.com/sp8MHgc.png",
+		"itemWeight": 2.5,
+		"description": "En boks med marihuana",
+		"price": 0,
+		"expiresAt": { "amount": 45, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 2
+	},
+	"weedbrick": {
+		"name": "weedbrick",
+		"label": "Marihuana (1kg)",
+		"image": "https://i.imgur.com/xaEdCvS.png",
+		"itemWeight": 5,
+		"description": "En brikke med marihuana ",
+		"price": 0,
+		"expiresAt": { "amount": 45, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"joint": {
+		"name": "joint",
+		"label": "Joint",
+		"image": "https://i.imgur.com/bXbykon.png",
+		"itemWeight": 0.1,
+		"description": "Puff, puff, pass",
+		"price": 0,
+		"expiresAt": { "amount": 7, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 50
+	},
+	"cokebag": {
+		"name": "cokebag",
+		"label": "Kokain",
+		"image": "https://i.imgur.com/MgR2OST.png",
+		"itemWeight": 0.5,
+		"description": "En gode dose med colombiansk dansepulver",
+		"price": 0,
+		"expiresAt": { "amount": 45, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 20
+	},
+	"femaleseed": {
+		"name": "femaleseed",
+		"label": "Hun frø",
+		"image": "https://i.imgur.com/7UcjqAm.png",
+		"itemWeight": 0.1,
+		"description": "Hun frø",
+		"price": 0,
+		"expiresAt": { "amount": 20, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 50
+	},
+	"armor": {
+		"name": "armor",
+		"label": "Skuddsikker vest",
+		"image": "https://i.imgur.com/Qz7QPE8.png",
+		"itemWeight": 10,
+		"description": "Skuddsikker vest",
+		"price": 5000,
+		"closeOnUse": true,
+		"maxInStack": 2
+	},
+	"pickaxe": {
+		"name": "pickaxe",
+		"label": "Hakke",
+		"image": "https://i.imgur.com/vwpL5vs.png",
+		"itemWeight": 5,
+		"description": "Hakke, kan brukes til gruvearbeid",
+		"price": 1000,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"fertilizer": {
+		"name": "fertilizer",
+		"label": "Gjødsel",
+		"image": "https://i.imgur.com/ihGBsQE.png",
+		"itemWeight": 3,
+		"description": "En pose med gjødsel",
+		"price": 100,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 3
+	},
+	"note": {
+		"name": "note",
+		"label": "Noteringsark",
+		"image": "https://i.imgur.com/V2e65oO.png",
+		"itemWeight": 0.01,
+		"description": "Noteringsark",
+		"price": 100,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"maleseed": {
+		"name": "maleseed",
+		"label": "Han frø",
+		"image": "https://i.imgur.com/7UcjqAm.png",
+		"itemWeight": 0.1,
+		"description": "Han frø",
+		"price": 0,
+		"expiresAt": { "amount": 20, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 50
+	},
+	"rolling-paper": {
+		"name": "rolling-paper",
+		"label": "Rullepapir",
+		"image": "https://i.imgur.com/dEIkBzt.png",
+		"itemWeight": 0.1,
+		"description": "Rullepapir til røyk",
+		"price": 50,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 50
+	},
+	"box_plastic": {
+		"name": "box_plastic",
+		"label": "Boks med 10 plast",
+		"image": "https://i.imgur.com/Q89YpI9.png",
+		"itemWeight": 10,
+		"description": "Boks med 10 plast",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"box_metal": {
+		"name": "box_metal",
+		"label": "Boks med 10 metal",
+		"image": "https://i.imgur.com/Q89YpI9.png",
+		"itemWeight": 10,
+		"description": "Boks med 10 metal",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"box_staal": {
+		"name": "box_staal",
+		"label": "Boks med 10 stål",
+		"image": "https://i.imgur.com/Q89YpI9.png",
+		"itemWeight": 10,
+		"description": "Boks med 10 stål",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"nightvision": {
+		"name": "nightvision",
+		"label": "Nightvision",
+		"image": "https://i.imgur.com/yQep2KN.png",
+		"itemWeight": 2.5,
+		"description": "Til å se i mørke",
+		"price": 3000,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"binoculars": {
+		"name": "binoculars",
+		"label": "Kikkert",
+		"image": "https://i.imgur.com/Zfe3qTg.png",
+		"itemWeight": 1,
+		"description": "Kikkert",
+		"price": 750,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"parkinvmachine": {
+		"name": "parkinvmachine",
+		"label": "Bøteskriver",
+		"image": "https://i.imgur.com/3FnkEwj.png",
+		"itemWeight": 1,
+		"description": "Bilistens verste mareritt",
+		"price": 750,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"scubagear": {
+		"name": "scubagear",
+		"label": "Dykkerutstyr",
+		"image": "https://i.imgur.com/R20woFD.png",
+		"itemWeight": 10,
+		"description": "Dykkerutstyr",
+		"price": 2500,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"advancedlockpick": {
+		"name": "advancedlockpick",
+		"label": "Avansert dirkesett",
+		"image": "https://i.imgur.com/IdJshU1.png",
+		"itemWeight": 1,
+		"description": "Avansert dirkesett",
+		"price": 4000,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 10
+	},
+	"strips": {
+		"name": "strips",
+		"label": "Strips",
+		"image": "https://i.imgur.com/dEvQtZN.png",
+		"itemWeight": 1,
+		"description": "Strips",
+		"price": 450,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 10
+	},
+	"avbitertang": {
+		"name": "avbitertang",
+		"label": "Avbitertang",
+		"image": "https://i.imgur.com/hxeZayk.png",
+		"itemWeight": 1,
+		"description": "Avbitertang",
+		"price": 200,
+		"closeOnUse": true,
+		"maxInStack": 5
+	},
+	"kaliumnitrat": {
+		"name": "kaliumnitrat",
+		"label": "Kaliumnitrat",
+		"image": "https://i.imgur.com/wKw9YTo.png",
+		"itemWeight": 0.01,
+		"description": "Kaliumnitrat brukes i en blanding med svovel til produksjon av svartkrutt",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 25
+	},
+	"mineralstein": {
+		"name": "mineralstein",
+		"label": "Mineralstein",
+		"image": "https://i.imgur.com/jBaKIzI.png",
+		"itemWeight": 3,
+		"description": "En stein som inneholder forskjellige mineralstoffer",
+		"price": 0,
+		"expiresAt": { "amount": 120, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 25
+	},
+	"svovel": {
+		"name": "svovel",
+		"label": "Svovel",
+		"image": "https://i.imgur.com/ulJGJdv.png",
+		"itemWeight": 0.01,
+		"description": "Svovel er en bra bakteriedreper. Derfor fungerer det bra som infeksjonshindring i sår etc. Det brukes også i fremstilling av svartkrutt.",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 25
+	},
+	"svartkrutt": {
+		"name": "svartkrutt",
+		"label": "Svartkrutt",
+		"image": "https://i.imgur.com/Z9EZTeE.png",
+		"itemWeight": 0.1,
+		"description": "Svartkrutt brukes til å lage ammo",
+		"price": 0,
+		"closeOnUse": true,
+		"maxInStack": 25,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "svovel", "amount": 5 },
+				{ "itemName": "kaliumnitrat", "amount": 5 }
+			]
+		}
+	},
+	"magasin": {
+		"name": "magasin",
+		"label": "Magasin",
+		"image": "https://i.imgur.com/Zfj6j5C.png",
+		"itemWeight": 1,
+		"description": "Våpen magasin",
+		"price": 0,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 5,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "metall", "amount": 9 },
+				{ "itemName": "plastikk", "amount": 15 },
+				{ "itemName": "springfjaer", "amount": 1 },
+				{ "itemName": "stal", "amount": 6 }
+			]
+		}
+	},
+	"avtrekker": {
+		"name": "avtrekker",
+		"label": "Avtrekker",
+		"image": "https://i.imgur.com/s7WWBWx.png",
+		"itemWeight": 1,
+		"description": "Våpen avtrekker",
+		"price": 0,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 10,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "metall", "amount": 5 },
+				{ "itemName": "springfjaer", "amount": 1 }
+			]
+		}
+	},
+	"lop": {
+		"name": "lop",
+		"label": "Lop",
+		"image": "https://i.imgur.com/Deo1Utb.png",
+		"itemWeight": 1,
+		"description": "Våpen løp",
+		"price": 0,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 5,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "metall", "amount": 10 },
+				{ "itemName": "stal", "amount": 10 }
+			]
+		}
+	},
+	"sluttstykke": {
+		"name": "sluttstykke",
+		"label": "Sluttstykke",
+		"image": "https://i.imgur.com/y9w0e39.png",
+		"itemWeight": 1,
+		"description": "Våpen Sluttstykke",
+		"price": 0,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 5,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "metall", "amount": 10 },
+				{ "itemName": "springfjaer", "amount": 2 },
+				{ "itemName": "stal", "amount": 10 }
+			]
+		}
+	},
+	"sykkelolje": {
+		"name": "sykkelolje",
+		"label": "sykkelolje",
+		"image": "https://i.imgur.com/coBM3l5.png",
+		"itemWeight": 1,
+		"description": "Sykkelolje",
+		"price": 175,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 10
+	},
+	"skruer": {
+		"name": "skruer",
+		"label": "Skruer",
+		"image": "https://i.imgur.com/X9ltcJ5.png",
+		"itemWeight": 0.1,
+		"description": "Skruer",
+		"price": 0,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 50,
+		"crafting": {
+			"itemsRequired": [{ "itemName": "stal", "amount": 6 }]
+		}
+	},
+	"chokefett": {
+		"name": "chokefett",
+		"label": "Chokefett",
+		"image": "https://i.imgur.com/M7tNXWR.png",
+		"itemWeight": 1,
+		"description": "Choke fett",
+		"price": 325,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 50
+	},
+	"springfjaer": {
+		"name": "springfjaer",
+		"label": "Springfjaer",
+		"image": "https://i.imgur.com/MPM4Yld.png",
+		"itemWeight": 0.05,
+		"description": "Springfjær",
+		"price": 0,
+		"expiresAt": { "amount": 60, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 10,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "metall", "amount": 3 },
+				{ "itemName": "stal", "amount": 2 }
+			]
+		}
+	},
+	"speed-receipt": {
+		"name": "speed-receipt",
+		"label": "Fartsmåling",
+		"image": "https://i.imgur.com/JpM4Dx9.png",
+		"itemWeight": 0.01,
+		"description": "Fartsmålingskvitering",
+		"price": 0,
+		"expiresAt": { "amount": 120, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"parking-ticket": {
+		"name": "parking-ticket",
+		"label": "Parkeringsbot",
+		"image": "https://i.imgur.com/wRN5QBV.png",
+		"itemWeight": 0.01,
+		"description": "Parkeringsbot",
+		"price": 0,
+		"expiresAt": { "amount": 120, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"warrant": {
+		"name": "warrant",
+		"label": "Ransakelse",
+		"image": "https://i.imgur.com/JpM4Dx9.png",
+		"itemWeight": 0.01,
+		"description": "Ransakelse",
+		"price": 0,
+		"expiresAt": { "amount": 10, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"WEAPON_COMBATPISTOL": {
+		"name": "WEAPON_COMBATPISTOL",
+		"label": "Glock",
+		"image": "https://i.imgur.com/V3dMyfp.png",
+		"itemWeight": 11,
+		"description": "Glock",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "blueprint_glock", "amount": 1 },
+				{ "itemName": "magasin", "amount": 1 },
+				{ "itemName": "avtrekker", "amount": 1 },
+				{ "itemName": "sluttstykke", "amount": 1 },
+				{ "itemName": "chokefett", "amount": 3 },
+				{ "itemName": "skruer", "amount": 5 },
+				{ "itemName": "springfjaer", "amount": 1 },
+				{ "itemName": "sykkelolje", "amount": 5 },
+				{ "itemName": "lop", "amount": 1 }
+			]
+		}
+	},
+	"WEAPON_ASSAULTRIFLE_MK2": {
+		"name": "WEAPON_ASSAULTRIFLE_MK2",
+		"label": "AK-47",
+		"image": "https://i.imgur.com/LhK0gyo.png",
+		"itemWeight": 15,
+		"description": "AK-47",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "blueprint_glock", "amount": 1 },
+				{ "itemName": "magasin", "amount": 1 },
+				{ "itemName": "avtrekker", "amount": 1 },
+				{ "itemName": "sluttstykke", "amount": 1 },
+				{ "itemName": "chokefett", "amount": 3 },
+				{ "itemName": "skruer", "amount": 5 },
+				{ "itemName": "springfjaer", "amount": 1 },
+				{ "itemName": "sykkelolje", "amount": 5 },
+				{ "itemName": "lop", "amount": 1 }
+			]
+		}
+	},
+	"WEAPON_SNSPISTOL": {
+		"name": "WEAPON_SNSPISTOL",
+		"label": "SNS Pistol",
+		"image": "https://i.imgur.com/08sZcPn.png",
+		"itemWeight": 10,
+		"description": "SNS PISTOL",
+		"price": 0,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "blueprint_snspistol", "amount": 1 },
+				{ "itemName": "magasin", "amount": 1 },
+				{ "itemName": "avtrekker", "amount": 1 },
+				{ "itemName": "sluttstykke", "amount": 1 },
+				{ "itemName": "chokefett", "amount": 3 },
+				{ "itemName": "skruer", "amount": 5 },
+				{ "itemName": "springfjaer", "amount": 1 },
+				{ "itemName": "sykkelolje", "amount": 5 },
+				{ "itemName": "lop", "amount": 1 }
+			]
+		}
+	},
+	"WEAPON_SNSPISTOL_MK2": {
+		"name": "WEAPON_SNSPISTOL_MK2",
+		"label": "Spiker Pistol",
+		"image": "https://i.imgur.com/EqiqUM8.png",
+		"itemWeight": 10,
+		"description": "Verktøy for å spikre spiker i hus",
+		"price": 10000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_PISTOL_MK2": {
+		"name": "WEAPON_PISTOL_MK2",
+		"label": "Pistol",
+		"image": "https://i.imgur.com/fVGuMfA.png",
+		"itemWeight": 10,
+		"description": "Dis bi*ch go bang bang",
+		"price": 120000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"WEAPON_KNUCKLE": {
+		"name": "WEAPON_KNUCKLE",
+		"label": "Knokejern",
+		"image": "https://i.imgur.com/GoMOglG.png",
+		"itemWeight": 0.01,
+		"description": "Knokejern",
+		"price": 8500,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"WEAPON_HEAVYPISTOL": {
+		"name": "WEAPON_HEAVYPISTOL",
+		"label": "Heavy Pistol",
+		"image": "https://i.imgur.com/BhPoi9d.png",
+		"itemWeight": 13,
+		"description": "PISTOL",
+		"price": 25000,
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1,
+		"crafting": {
+			"itemsRequired": [
+				{ "itemName": "blueprint_heavypistol", "amount": 1 },
+				{ "itemName": "magasin", "amount": 1 },
+				{ "itemName": "avtrekker", "amount": 1 },
+				{ "itemName": "sluttstykke", "amount": 1 },
+				{ "itemName": "chokefett", "amount": 3 },
+				{ "itemName": "skruer", "amount": 5 },
+				{ "itemName": "springfjaer", "amount": 1 },
+				{ "itemName": "sykkelolje", "amount": 5 },
+				{ "itemName": "lop", "amount": 1 }
+			]
+		}
+	},
+
+	"mystery-key-coke": {
+		"name": "mystery-key-coke",
+		"label": "Mystisk nøkkel",
+		"image": "https://i.imgur.com/Dc7mbEW.png",
+		"itemWeight": 3,
+		"description": "Ukjent hva den brukes til. Henger noen pulver rester igjen!",
+		"price": 15000,
+		"expiresAt": { "amount": 90, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+
+	"mystery-key-meth": {
+		"name": "mystery-key-meth",
+		"label": "Mystisk nøkkel",
+		"image": "https://i.imgur.com/Dc7mbEW.png",
+		"itemWeight": 3,
+		"description": "Ukjent hva den brukes til. Ligger noen krystallrester på den!",
+		"price": 15000,
+		"expiresAt": { "amount": 150, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+
+	"cokeleaves": {
+		"name": "cokeleaves",
+		"label": "Kokablader",
+		"image": "https://i.imgur.com/l4AQi6y.png",
+		"itemWeight": 0.1,
+		"description": "Blader som er plukket fra kokabusk planten",
+		"price": 0,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 70
+	},
+
+	"crushed-cokeleaves": {
+		"name": "crushed-cokeleaves",
+		"label": "Knuste kokablader",
+		"image": "https://i.imgur.com/R3QC3JD.png",
+		"itemWeight": 0.1,
+		"description": "Prosseserte kokablader",
+		"price": 0,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 70
+	},
+	"diesel-bottle": {
+		"name": "diesel-bottle",
+		"label": "Flaske med diesel",
+		"image": "https://i.imgur.com/zwZUBLp.png",
+		"itemWeight": 0.1,
+		"description": "Flaske fylt med diesel",
+		"price": 0,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 5
+	},
+
+	"cokemix": {
+		"name": "cokemix",
+		"label": "Kokain blanding",
+		"image": "https://i.imgur.com/H0GaPTf.png",
+		"itemWeight": 0.1,
+		"description": "Kokain miks. Brukt til å lage kokain",
+		"price": 0,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 5
+	},
+
+	"driedcoke": {
+		"name": "driedcoke",
+		"label": "Tørket Kokain blanding",
+		"image": "https://i.imgur.com/0F1sp6X.png",
+		"itemWeight": 0.1,
+		"description": "Prossesert kokain miks",
+		"price": 0,
+		"expiresAt": { "amount": 30, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 5
+	},
+
+	"ammo-spiker": {
+		"name": "ammo-spiker",
+		"label": "Spiker",
+		"image": "https://i.imgur.com/VsdQsyY.png",
+		"itemWeight": 0.1,
+		"description": "Brukt til å sette sammen hus",
+		"price": 10,
+		"closeOnUse": true,
+		"maxInStack": 500
+	},
+	"fishingrod": {
+		"name": "fishingrod",
+		"label": "Fiskestang",
+		"image": "https://i.imgur.com/dN3KJmb.png",
+		"itemWeight": 5,
+		"description": "Kan brukes for å fange ting fra havet",
+		"price": 4000,
+		"closeOnUse": true,
+		"maxInStack": 1
+	},
+	"fish": {
+		"name": "fish",
+		"label": "Fisk",
+		"image": "https://i.imgur.com/iESk3WN.png",
+		"itemWeight": 1,
+		"description": "Sunt med OMEGA 3",
+		"price": 0,
+		"expiresAt": { "amount": 10, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 64
+	},
+	"highrollercard": {
+		"name": "highrollercard",
+		"label": "High Roller Ukeskort",
+		"image": "https://i.imgur.com/u1HCTEq.png",
+		"itemWeight": 1,
+		"description": "Engangsbillett til Luksusfellen",
+		"price": 25000,
+		"expiresAt": { "amount": 7, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"inkedmoneybag": {
+		"name": "inkedmoneybag",
+		"label": "Markert Penge Bag",
+		"image": "https://i.imgur.com/D2ClB8T.png",
+		"itemWeight": 10,
+		"description": "DNB ønsker gymbagen sin",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"inkedmoneystack": {
+		"name": "inkedmoneystack",
+		"label": "Markert Pengebunke",
+		"image": "https://i.imgur.com/oPo24RO.png",
+		"itemWeight": 1,
+		"description": "???",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"inkedmoneyroll": {
+		"name": "inkedmoneyroll",
+		"label": "Markert Pengerulle",
+		"image": "https://i.imgur.com/tT72SDv.png",
+		"itemWeight": 0.1,
+		"description": "???",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"oxy": {
+		"name": "oxy",
+		"label": "Oxy",
+		"image": "https://i.imgur.com/sQMburD.png",
+		"itemWeight": 0.1,
+		"description": "???",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"mysteriouspackage": {
+		"name": "mysteriouspackage",
+		"label": "Mystisk pakke",
+		"image": "https://i.imgur.com/1QRLLUs.png",
+		"itemWeight": 40,
+		"description": "???",
+		"price": 0,
+		"expiresAt": { "amount": 1, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+
+	"clothing_glasses": {
+		"name": "clothing_glasses",
+		"label": "Briller",
+		"image": "https://i.imgur.com/rWKGm3h.png",
+		"itemWeight": 0.1,
+		"description": "Et fantastisk par med briller",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"clothing_hat": {
+		"name": "clothing_hat",
+		"label": "Hatt",
+		"image": "https://i.imgur.com/MeoEooY.png",
+		"itemWeight": 0.1,
+		"description": "Dekk over den tørre hodebunnen",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"clothing_mask": {
+		"name": "clothing_mask",
+		"label": "Maske",
+		"image": "https://i.imgur.com/iYQFkwE.png",
+		"itemWeight": 0.1,
+		"description": "Pass på å ikke se ut som en terrorist",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"clothing_ears": {
+		"name": "clothing_ears",
+		"label": "Øre tilbehør",
+		"image": "https://i.imgur.com/xcWThEZ.png",
+		"itemWeight": 0.1,
+		"description": "Kan festes i øret",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+	"huntingbait": {
+		"name": "huntingbait",
+		"label": "Dyrefor",
+		"image": "https://i.imgur.com/Ae51DVo.png",
+		"itemWeight": 2.5,
+		"description": "kanskje ikke lurt at du spiser det, men godt for å fange dyr",
+		"price": 500,
+		"closeOnUse": false,
+		"maxInStack": 10
+	},
+
+	"WEAPON_HUNTINGRIFLE": {
+		"name": "WEAPON_HUNTINGRIFLE",
+		"label": "Jakt Rifle",
+		"image": "https://i.imgur.com/6qSK5qh.png",
+		"itemWeight": 1,
+		"description": "Brukes til jakting",
+		"price": 30000,
+		"ammoItem": "ammo-huntingrifle",
+		"expiresAt": { "amount": 200, "ofWhat": "days" },
+		"closeOnUse": false,
+		"maxInStack": 1
+	},
+
+	"ammo-huntingrifle": {
+		"name": "ammo-huntingrifle",
+		"label": "Jakt Rifle Patroner",
+		"image": "https://i.imgur.com/Pjchmtx.png",
+		"itemWeight": 0.1,
+		"description": "Laget for jakt rifler",
+		"price": 150,
+		"closeOnUse": true,
+		"maxInStack": 500
+	},
+
+	"tacomeat": {
+		"name": "tacomeat",
+		"label": "Kjøttdeig",
+		"image": "https://i.imgur.com/UzkTuXw.png",
+		"itemWeight": 1.0,
+		"description": "Kan stekest",
+		"price": 480,
+		"closeOnUse": false,
+		"maxInStack": 60,
+		"expiresAt": { "amount": 2, "ofWhat": "days" }
+	},
+	"cookedtacomeat": {
+		"name": "cookedtacomeat",
+		"label": "Stekt kjøttdeig",
+		"image": "https://i.imgur.com/Y1NJJAL.png",
+		"itemWeight": 0.2,
+		"description": "Brukes til å lage taco",
+		"price": 0,
+		"closeOnUse": false,
+		"maxInStack": 60,
+		"expiresAt": { "amount": 3, "ofWhat": "days" }
+	},
+	"lettuce": {
+		"name": "lettuce",
+		"label": "Salat",
+		"image": "https://i.imgur.com/XfvFshv.png",
+		"itemWeight": 0.05,
+		"description": "Brukes til å lage mat",
+		"price": 5,
+		"closeOnUse": false,
+		"maxInStack": 60,
+		"expiresAt": { "amount": 2, "ofWhat": "days" }
+	},
+	"cheese": {
+		"name": "cheese",
+		"label": "Ost",
+		"image": "https://i.imgur.com/QYRrD33.png",
+		"itemWeight": 0.1,
+		"description": "Brukes til å lage mat",
+		"price": 12,
+		"closeOnUse": false,
+		"maxInStack": 64,
+		"expiresAt": { "amount": 2, "ofWhat": "days" }
+	},
+	"taco": {
+		"name": "taco",
+		"label": "Taco",
+		"image": "https://i.imgur.com/AZkdmA4.png",
+		"itemWeight": 0.35,
+		"description": "Taco",
+		"price": 0,
+		"expiresAt": { "amount": 5, "ofWhat": "days" },
+		"closeOnUse": true,
+		"maxInStack": 64
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "js/0.chunk.js": "/js/0.chunk.js",
+    "js/0.chunk.js.map": "/js/0.chunk.js.map",
+    "main.js": "/dev.js",
+    "main.js.map": "/dev.js.map",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "dev.js"
+  ]
+}

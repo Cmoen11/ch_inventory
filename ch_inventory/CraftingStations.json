@@ -1,0 +1,334 @@
+{
+	"skraphandel": {
+		"name": "Skraphandel",
+		"entity": "ig_floyd",
+		"coords": [
+			{ "x": -354.86, "y": -1543.56, "z": 27.73, "heading": 271.58 },
+			{ "x": 1389.33, "y": -2072.77, "z": 52.0, "heading": 78.1 },
+			{ "x": 472.52, "y": -1309.03, "z": 29.24, "heading": 196.55 }
+		],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Abdias",
+					"Serienummer": "<Serial>"
+				},
+				"name": "bag"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "elektronikk"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "ledningssett"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "metall"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "kobber"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "stal"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "plastikk"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "gummi"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "stoff"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "glass"
+			},
+			{
+				"count": 5,
+				"metadata": {
+					"Merket med": "Skraphandel"
+				},
+				"name": "kretskort"
+			}
+		]
+	},
+	"smug": {
+		"name": "Smug",
+		"entity": "a_m_m_rurmeth_01",
+		"coords": [{ "x": 296.07, "y": -1714.66, "z": 28.18, "heading": 180 }],
+		"sound": "Smuget_godtatt",
+		"skillsRequired": [
+			{
+				"skillName": "crime",
+				"label": "Krimninalitet",
+				"sound": "Smuget_avslatt",
+				"skillValue": 3
+			}
+		],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smugets Radio",
+					"Serienummer": "<Serial>"
+				},
+				"name": "radio"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "skruer"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "springfjaer"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "magasin"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "avtrekker"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "lop"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "sluttstykke"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "svartkrutt"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "lockpick"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Smuget"
+				},
+				"name": "bandage"
+			}
+		]
+	},
+	"kristian kålberg": {
+		"name": "Kristian Kålberg",
+		"entity": "cs_chengsr", 
+		"coords": [{ "x": -925.79, "y": 158.21, "z": 62.98, "heading": 250 }],
+		"sound": "tier_1_avslatt",
+		"skillsRequired": [
+			{
+				"skillName": "crime",
+				"label": "Krimninalitet",
+				"sound": "tier_1_godtatt",
+				"skillValue": 12
+			}
+		],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Kålbergs crafting AS",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				},
+				"name": "WEAPON_MINISMG"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Kålbergs crafting AS",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				},
+				"name": "WEAPON_SNSPISTOL"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Kålbergs crafting AS",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				},
+				"name": "WEAPON_COMBATPISTOL"
+			},
+            {
+				"count": 1,
+				"metadata": {
+					"Merket med": "Kålbergs crafting AS"
+				},
+				"name": "thermite"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Kålbergs crafting AS",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				},
+				"name": "WEAPON_HEAVYPISTOL"
+			}
+		]
+	},
+	"ernest amour": {
+		"name": "Ernest Amour",
+		"entity": "u_m_m_doa_01",
+		"coords": [{ "x": 42.75, "y": -1020.7, "z": 36.69, "heading": 160 }],
+		"slots": [
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Ernest Amour"
+				},
+				"name": "ammo-pistol"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Ernest Amour"
+				},
+				"name": "ammo-sub"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Ernest Amour"
+				},
+				"name": "ammo-rifle"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Ernest Amour"
+				},
+				"name": "ammo-shotgun"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Ernest Amour"
+				},
+				"name": "ammo-lmg"
+			}
+		]
+	},
+	"robben ness": {
+		"name": "Robben Ness",
+		"entity": "ig_sacha",
+		"coords": [{ "x": 2810.25, "y": 5985.59, "z": 350.19, "heading": 140 }],
+		"sound": "tier_3_godtatt",
+		"skillsRequired": [
+			{
+				"skillName": "crime",
+				"label": "Krimninalitet",
+				"sound": "tier_3_avslatt",
+				"skillValue": 25
+			}
+		],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "AP = WIN",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				},
+				"name": "WEAPON_COMPACTRIFLE"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "AP = WIN",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				},
+				"name": "WEAPON_MICROSMG"
+			}
+		]
+	},
+	"astrid eide": {
+		"name": "Astrid Eide",
+		"entity": "cs_karen_daniels",
+		"coords": [{ "x": 1641.5, "y": 4853.43, "z": 41.53, "heading": 100 }],
+		"skillsRequired": [
+			{
+				"skillName": "crime",
+				"label": "Krimninalitet",
+				"skillValue": 4
+			}
+		],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Dokument fabrikken"
+				},
+				"name": "gruppe62"
+			}
+		]
+	}
+}

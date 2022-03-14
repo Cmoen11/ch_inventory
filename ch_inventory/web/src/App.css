@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+* {
+	box-sizing: border-box;
+	/* font-family: "Montserrat", sans-serif; */
+}
+
+h1 {
+	font-family: "Montserrat", sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.patient-card a {
+	color: #4f9cdb;
+}
+
+body:not(input) {
+	user-select: none; /* Non-prefixed version*/
+}
+
+.fixed {
+	position: fixed;
+}

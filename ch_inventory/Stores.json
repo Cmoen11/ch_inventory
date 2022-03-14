@@ -1,0 +1,744 @@
+{
+	"ekstrahjelp": {
+		"name": "Ekstrahjelp",
+		"entity": "ig_ramp_hipster",
+		"blip": {
+			"sprite": 59,
+			"color": 2,
+			"display": 4,
+			"scale": 0.8
+		},
+		"coords": [
+			{ "x": -2966.27, "y": 391.07, "z": 15.05, "heading": 91.42 },
+			{ "x": -1486.19, "y": -377.92, "z": 40.17, "heading": 129.63 },
+			{ "x": -1221.87, "y": -908.5, "z": 12.33, "heading": 34.57 },
+			{ "x": 1164.88, "y": -322.69, "z": 69.21, "heading": 101.51 },
+			{ "x": 1165.83, "y": 2711.01, "z": 38.16, "heading": 177.58 },
+			{ "x": 1392.64, "y": 3606.39, "z": 34.99, "heading": 201.43 },
+			{ "x": 24.35, "y": -1347.67, "z": 29.5, "heading": 263.38 },
+			{ "x": 1959.32, "y": 3741.4, "z": 32.35, "heading": 296.51 },
+			{ "x": 549.34, "y": 2669.51, "z": 42.16, "heading": 98.54 },
+			{ "x": 372.95, "y": 328.05, "z": 103.57, "heading": 255.93 },
+			{ "x": 2555.49, "y": 380.88, "z": 108.63, "heading": 356.9 },
+			{ "x": -3040.67, "y": 583.98, "z": 7.91, "heading": 13.28 },
+			{ "x": -3243.87, "y": 1000.15, "z": 12.84, "heading": 350.39 },
+			{ "x": 2676.51, "y": 3280.27, "z": 55.25, "heading": 324.73 },
+			{ "x": 1728.54, "y": 6416.55, "z": 35.04, "heading": 249.09 }
+		],
+		"sound": "Ekstrahjelpa_hei",
+		"slots": [
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "hamburger"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "sandwich"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "fries"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "rings"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "energybar"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "meatsandwitch"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "burrito"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "thebleederburger"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "sushi_plate"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "sushi_rolls"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "spagetticapri"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Kiwi"
+				},
+				"name": "pancake"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "rings"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "water"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "milk"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "frappe"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "slush"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "beer"
+			}
+		]
+	},
+	"kaffemaskin": {
+		"name": "Kaffemaskin",
+		"entity": "s_m_y_xmech_02",
+		"coords": [],
+		"slots": [
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Rip Opie JR Kaffe A/S"
+				},
+				"name": "kaffe"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Rip Opie JR Kaffe A/S"
+				},
+				"name": "milk"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Rip Opie JR Kaffe A/S"
+				},
+				"name": "waterglass"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Rip Opie JR Kaffe A/S"
+				},
+				"name": "tea"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Fagforeningen For Faen!"
+				},
+				"name": "ffwater"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Fagforeningen For Faen!"
+				},
+				"name": "ffkaffe"
+			}
+		]
+	},
+	"vanndispenser": {
+		"name": "vanndispenser",
+		"entity": "s_m_y_xmech_02",
+		"coords": [],
+		"slots": [
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Rip Opie JR Kaffe A/S"
+				},
+				"name": "waterglass"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Fagforeningen For Faen!"
+				},
+				"name": "ffwater"
+			}
+		]
+	},
+	"knivar": {
+		"name": "Knivar",
+		"entity": "s_m_y_xmech_02",
+		"coords": [{ "x": -592.41, "y": -1766.86, "z": 23.19, "heading": 265.71 }],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Knivar",
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_KNIFE"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Knivar",
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_SWITCHBLADE"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Knivar",
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_MACHETE"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Knivar",
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_BATTLEAXE"
+			}
+		]
+	},
+	"megamall": {
+		"name": "Megamall",
+		"entity": "s_m_m_migrant_01",
+		"blip": {
+			"sprite": 59,
+			"color": 3,
+			"display": 4,
+			"scale": 0.8
+		},
+		"coords": [{ "x": 54.83, "y": -1738.92, "z": 29.6, "heading": 50.83 }],
+		"slots": [
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Megamall"
+				},
+				"name": "strips"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Megamall",
+					"Ammo": 0
+				},
+				"name": "WEAPON_PETROLCAN"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Megamall"
+				},
+				"name": "repairkit"
+			},
+			{
+				"count": 100,
+				"metadata": {
+					"Merket med": "Megamall"
+				},
+				"name": "bandage"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				},
+				"name": "WEAPON_FLASHLIGHT"
+			},
+			{
+				"count": 200,
+				"metadata": {
+					"Merket med": "Megamall"
+				},
+				"name": "zipbag"
+			},
+			{
+				"name": "binoculars",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "nightvision",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "lockpick",
+				"count": 100,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "sykkelolje",
+				"count": 100,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "chokefett",
+				"count": 100,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "pickaxe",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "fertilizer",
+				"count": 100,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "rolling-paper",
+				"count": 100,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "WEAPON_FIREEXTINGUISHER",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "avbitertang",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "armor",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "fishingrod",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				}
+			},
+			{
+				"name": "radio",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall"
+				},
+				"expiresAt": { "amount": 12, "ofWhat": "hour" }
+			},
+			{
+				"name": "note",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Megamall",
+					"UPC-Kode": "<Serial>"
+				}
+			}
+		]
+	},
+	"bar": {
+		"name": "Bar",
+		"entity": "s_m_y_barman_01",
+		"blip": {
+			"sprite": 93,
+			"color": 7,
+			"display": 4,
+			"scale": 0.8
+		},
+		"coords": [
+			{ "x": 129.6, "y": -1283.85, "z": 29.28, "heading": 120.23 },
+			{ "x": -442.86, "y": 264.96, "z": 83.02, "heading": 266.12 },
+			{ "x": -561.91, "y": 285.9, "z": 82.18, "heading": 267.64 },
+			{ "x": -1391.19, "y": -606.6, "z": 30.32, "heading": 129.6 },
+			{ "x": 1984.4, "y": 3049.51, "z": 47.22, "heading": 324.16 }
+		],
+		"slots": [
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "rings"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "water"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "milk"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "frappe"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "slush"
+			},
+			{
+				"count": 10,
+				"metadata": {
+					"Merket med": "Bar"
+				},
+				"name": "beer"
+			}
+		]
+	},
+	"våpenbutikken": {
+		"name": "Våpenbutikken",
+		"entity": "s_m_y_ammucity_01",
+		"coords": [
+			{ "x": -331.46, "y": 6085.4, "z": 31.46, "heading": 222.74 },
+			{ "x": -3173.43, "y": 1089.03, "z": 20.84, "heading": 242.14 },
+			{ "x": -1118.53, "y": 2700.42, "z": 18.56, "heading": 220.36 },
+			{ "x": 1692.48, "y": 3761.41, "z": 34.71, "heading": 226.35 },
+			{ "x": 2567.1, "y": 292.43, "z": 108.74, "heading": 3.96 },
+			{ "x": 809.19, "y": -2159.19, "z": 29.62, "heading": 349.16 },
+			{ "x": 253.58, "y": -51.43, "z": 69.95, "heading": 66.93 },
+			{ "x": 23.22, "y": -1105.65, "z": 29.8, "heading": 153.57 }
+		],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Jakt & Friluft",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				},
+				"name": "WEAPON_VINTAGEPISTOL"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Jakt & Friluft"
+				},
+				"name": "ammo-pistol"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Jakt & Friluft"
+				},
+				"name": "ammo-rifle"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Jakt & Friluft"
+				},
+				"name": "ammo-sub"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Jakt & Friluft"
+				},
+				"name": "ammo-shotgun"
+			},
+			{
+				"count": 50,
+				"metadata": {
+					"Merket med": "Jakt & Friluft"
+				},
+				"name": "ammo-lmg"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Jakt & Friluft",
+					"Ammo": 0,
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_FLASHLIGHT"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Jakt & Friluft",
+					"Ammo": 0,
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_BAT"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Jakt & Friluft",
+					"Ammo": 0,
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_WRENCH"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Jakt & Friluft",
+					"Ammo": 0,
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_HAMMER"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Jakt & Friluft",
+					"Ammo": 0,
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_HATCHET"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Jakt & Friluft",
+					"Ammo": 0,
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_KNIFE"
+			}
+		]
+	},
+	"aker narkomaker": {
+		"name": "Aker Narkomaker",
+		"entity": "csb_chef2",
+		"coords": [{ "x": 781.44, "y": 1274.73, "z": 361.29, "heading": 1.17 }],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Merket med": "Aker Narkomaker"
+				},
+				"name": "mystery-key-coke"
+			}
+		]
+	},
+	"stian skallstad": {
+		"name": "Stian Skallstad",
+		"entity": "cs_joeminuteman",
+		"coords": [{ "x": -237.08, "y": 573.75, "z": 189.53, "heading": 135 }],
+		"skillsRequired": [
+			{
+				"skillName": "crime",
+				"label": "Krimninalitet",
+				"skillValue": 3
+			}
+		],
+		"slots": [
+			{
+				"count": 1,
+				"metadata": {
+					"Laget av": "Stian",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				},
+				"name": "WEAPON_PISTOL_MK2"
+			},
+			{
+				"count": 1,
+				"metadata": {
+					"Laget av": "Stian",
+					"Serienummer": "<Serial>"
+				},
+				"name": "WEAPON_KNUCKLE"
+			}
+		]
+	},
+	"biltuning_shop": {
+		"name": "biltuning_shop",
+		"entity": "s_m_y_xmech_02",
+		"coords": [],
+		"slots": [
+			{
+				"name": "advancerepkit",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Biltuning"
+				}
+			},
+			{
+				"name": "advancedlockpick",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Biltuning"
+				}
+			}
+		]
+	},
+
+	"hunting_shop": {
+		"name": "hunting_shop",
+		"entity": "s_m_y_xmech_02",
+		"coords": [],
+		"slots": [
+			{
+				"name": "WEAPON_HUNTINGRIFLE",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Jakt Hytta",
+					"Serienummer": "<Serial>",
+					"Ammo": 0
+				}
+			},
+			{
+				"name": "ammo-huntingrifle",
+				"count": 100,
+				"metadata": {
+					"Merket med": "Jakt hytta"
+				}
+			}
+		]
+	},
+
+	"taco_items_shop": {
+		"name": "taco_items_shop",
+		"entity": "s_m_y_xmech_02",
+		"coords": [],
+		"slots": [
+			{
+				"name": "tacomeat",
+				"count": 1,
+				"metadata": {
+					"Merket med": "The Taco Farmer"
+				}
+			},
+			{
+				"name": "lettuce",
+				"count": 5,
+				"metadata": {
+					"Merket med": "The Taco Farmer"
+				}
+			},
+			{
+				"name": "cheese",
+				"count": 5,
+				"metadata": {
+					"Merket med": "The Taco Farmer"
+				}
+			}
+		]
+	},
+
+	"kasinobutikken": {
+		"name": "Kasinobutikken",
+		"entity": "s_m_y_casino_01",
+		"pedComps": [
+			{ "componentId": 0, "drawableId": 3, "textureId": 0, "paletteId": 0 },
+			{ "componentId": 1, "drawableId": 1, "textureId": 0, "paletteId": 0 },
+			{ "componentId": 2, "drawableId": 3, "textureId": 0, "paletteId": 0 },
+			{ "componentId": 3, "drawableId": 1, "textureId": 1, "paletteId": 0 },
+			{ "componentId": 4, "drawableId": 0, "textureId": 0, "paletteId": 0 },
+			{ "componentId": 6, "drawableId": 1, "textureId": 0, "paletteId": 0 },
+			{ "componentId": 7, "drawableId": 2, "textureId": 0, "paletteId": 0 },
+			{ "componentId": 8, "drawableId": 3, "textureId": 0, "paletteId": 0 },
+			{ "componentId": 10, "drawableId": 1, "textureId": 0, "paletteId": 0 },
+			{ "componentId": 11, "drawableId": 1, "textureId": 0, "paletteId": 0 }
+		],
+		"coords": [{ "x": 1088.1666, "y": 221.124, "z": -49.2004, "heading": 183.2269 }],
+		"slots": [
+			{
+				"name": "highrollercard",
+				"count": 1,
+				"metadata": {
+					"Merket med": "Kasinoet"
+				}
+			}
+		]
+	}
+}
